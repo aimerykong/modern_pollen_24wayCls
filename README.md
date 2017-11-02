@@ -2,6 +2,10 @@
 
 For papers, slides and posters, please refer to our [project page](http://http://www.ics.uci.edu/~skong2/pollen.html "modernPollen-detCls")
 
+![](https://github.com/aimerykong/modern_pollen_24wayCls/raw/master/figures/114_vir_10162_conf7_wid154.jpg)
+
+![](https://github.com/aimerykong/modern_pollen_24wayCls/raw/master/figures/pixelSubtraction_big00448_y1x1.png)
+
 ![alt text](https://raw.githubusercontent.com/aimerykong/modern_pollen_24wayCls/master/figures/confusionMatrix24WayTesting_afterCalibration.jpg)
 
 
