@@ -2,7 +2,8 @@
 
 For papers, slides and posters, please refer to our [project page](http://http://www.ics.uci.edu/~skong2/pollen.html "modernPollen-detCls")
 
-![alt text](https://drive.google.com/file/d/0B6uW-Khc9uCDVXNCMl96ZGJKTGM/view "visualization")
+![alt text](https://raw.githubusercontent.com/aimerykong/modern_pollen_24wayCls/master/figures/confusionMatrix24WayTesting_afterCalibration.jpg)
+
 
 This is the first system for 24-way pollen grain classification. 
 Please download the models and dataset from the [google drive](https://drive.google.com/drive/folders/0B6uW-Khc9uCDQ01SRlVuejlTemM?usp=sharing).
@@ -12,7 +13,7 @@ While every pieces are contained here, please simply run "part10_checkModel2conf
 Moreover, please run "part11_calibrationByLinearRegression.m" to see how the calibration improves the result (this does not require Caffe toolbox).
 
 
-The dataset is here in personal local machine -- 
+The dataset is here in personal local machine (capricorn) -- 
 
 ~/LargeScalePollenProject/dataset
 
