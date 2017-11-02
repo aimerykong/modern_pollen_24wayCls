@@ -15,9 +15,9 @@ Note that download the folders and put them in the current directory so that the
 
 Every pieces of the system are contained here.
 
-1. Please simply run "part10_checkModel2confusiomMatrix_test.m" to evaluate the model. 
+1. Please simply run [part10_checkModel2confusiomMatrix_test.m](https://github.com/aimerykong/modern_pollen_24wayCls/blob/master/part10_checkModel2confusiomMatrix_test.m) to evaluate the model. 
 
-2. Please run "part11_calibrationByLinearRegression.m" to see how the calibration improves the result (this does not require Caffe toolbox).
+2. Please run [part11_calibrationByLinearRegression.m](https://github.com/aimerykong/modern_pollen_24wayCls/blob/master/part11_calibrationByLinearRegression.m) to see how the calibration improves the result (this does not require Caffe toolbox).
 
 
 The dataset is here in personal local machine (capricorn) -- 
