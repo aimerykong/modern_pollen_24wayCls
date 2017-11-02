@@ -13,8 +13,11 @@ This is the first system for 24-way pollen grain classification.
 Please download the models and dataset from the [google drive](https://drive.google.com/drive/folders/0B6uW-Khc9uCDQ01SRlVuejlTemM?usp=sharing).
 Note that download the folders and put them in the current directory so that the script can find the models.
 
-While every pieces are contained here, please simply run "part10_checkModel2confusiomMatrix_test.m" to evaluate the model. 
-Moreover, please run "part11_calibrationByLinearRegression.m" to see how the calibration improves the result (this does not require Caffe toolbox).
+Every pieces of the system are contained here.
+
+1. Please simply run "part10_checkModel2confusiomMatrix_test.m" to evaluate the model. 
+
+2. Please run "part11_calibrationByLinearRegression.m" to see how the calibration improves the result (this does not require Caffe toolbox).
 
 
 The dataset is here in personal local machine (capricorn) -- 
