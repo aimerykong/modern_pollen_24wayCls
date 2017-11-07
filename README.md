@@ -1,6 +1,6 @@
 # Joint Pollen Grain Detection and Classification with Multiplicative Gating Architecture 
 
-For papers, slides and posters, please refer to our [project page](http://http://www.ics.uci.edu/~skong2/pollen.html "modernPollen-detCls"). Please visit also visit the [webpage page of Pollen Morphology-based Classification and Analysis](http://www.ics.uci.edu/~fowlkes/bioshape/index.html) for more relevant projects.
+For papers, slides and posters, please refer to our [project page](http://www.ics.uci.edu/~skong2/pollen.html "modernPollen-detCls"). Please visit also visit the [webpage page of Pollen Morphology-based Classification and Analysis](http://www.ics.uci.edu/~fowlkes/bioshape/index.html) for more relevant projects.
 
 ![](https://github.com/aimerykong/modern_pollen_24wayCls/raw/master/figures/114_vir_10162_conf7_wid154.jpg)
 
